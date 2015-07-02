@@ -1,9 +1,12 @@
 {
   "name": "move-status-items",
   "main": "./lib/move-status-items",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Reorder status bar items by dragging them with the mouse",
-  "keywords": ["status-bar", "organization"],
+  "keywords": [
+    "status-bar",
+    "organization"
+  ],
   "repository": "https://github.com/olmokramer/atom-move-status-items",
   "license": "MIT",
   "engines": {
