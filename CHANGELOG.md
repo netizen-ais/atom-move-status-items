@@ -1,3 +1,6 @@
+## 0.0.4
+* Use atom.config to store order
+
 ## 0.0.3
 * Fixed issue when config file didn't exist
 
