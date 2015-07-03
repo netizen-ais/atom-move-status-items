@@ -1,7 +1,7 @@
 {
   "name": "move-status-items",
   "main": "./lib/move-status-items",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Reorder status bar items by dragging them with the mouse",
   "keywords": [
     "status-bar",
