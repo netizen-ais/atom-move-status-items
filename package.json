@@ -15,12 +15,5 @@
   "dependencies": {
     "jquery": "^2.1.4",
     "sub-atom": "^1.0.0"
-  },
-  "consumedServices": {
-    "status-bar": {
-      "versions": {
-        "^1.0.0": "consumeStatusBar"
-      }
-    }
   }
 }
