@@ -1,3 +1,6 @@
+## 0.0.5
+* Visual feedback while dragging
+
 ## 0.0.4
 * Use atom.config to store order
 
