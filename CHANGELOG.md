@@ -1,3 +1,6 @@
+## 0.0.6
+* Fix some issues
+
 ## 0.0.5
 * Visual feedback while dragging
 
