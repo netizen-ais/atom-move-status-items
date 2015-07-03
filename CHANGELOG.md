@@ -1,3 +1,6 @@
+## 0.0.7
+* Fix #3
+
 ## 0.0.6
 * Fix some issues
 
