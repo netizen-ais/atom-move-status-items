@@ -1,3 +1,6 @@
+## 0.0.9
+* Allow to move items between left and right side
+
 ## 0.0.8
 * Fix #4
 
