@@ -1,3 +1,6 @@
+## 0.0.10
+* Prevent dragging with non-right mouse buttons
+
 ## 0.0.9
 * Allow to move items between left and right side
 
