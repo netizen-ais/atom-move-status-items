@@ -1,3 +1,6 @@
+## 0.0.11
+* Improved serialization by rejecting less classes
+
 ## 0.0.10
 * Prevent dragging with non-right mouse buttons
 
