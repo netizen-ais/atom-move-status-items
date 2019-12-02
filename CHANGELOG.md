@@ -1,3 +1,6 @@
+## 0.0.12
+* Fix attempt for [issue#5](https://github.com/rgawenda/atom-move-status-items/issues/5)
+
 ## 0.0.11
 * Improved serialization by rejecting less classes
 
