@@ -1,3 +1,9 @@
+## 0.1.1
+* Update repo links in README
+
+## 0.1.0
+* Moved repo
+
 ## 0.0.16
 * Removed JQuery dependency
 
