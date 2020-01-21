@@ -7,7 +7,7 @@
     "status-bar",
     "organization"
   ],
-  "repository": "https://github.com/rgawenda/atom-move-status-items",
+  "repository": "https://github.com/netizen-ais/atom-move-status-items",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
