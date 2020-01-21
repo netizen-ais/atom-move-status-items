@@ -1,3 +1,6 @@
+## 0.0.16
+* Removed JQuery dependency
+
 ## 0.0.15
 * Credit original author
 

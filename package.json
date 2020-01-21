@@ -1,7 +1,7 @@
 {
   "name": "move-status-items",
   "main": "./lib/move-status-items",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "description": "Reorder status bar items by dragging them with the mouse",
   "keywords": [
     "status-bar",
@@ -13,7 +13,6 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "jquery": ">=3.4.0",
     "sub-atom": "^1.0.0"
   }
 }
